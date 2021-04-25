@@ -79,7 +79,7 @@ base32.b32decode(b"IJZGKYLLIFGEYQ2UIZ5TS6BUHA2VMUZXO5UWS5CCLJMFKVLIJVSX2===")
 
 ## 編碼101 :Morse code
 解底下的題目:  
-.. -. ..-. --- ... . -.-. ..-. .-.. .- --. .. ... -- --- .-. ... .. -. --.
+.. -. ..-. --- ... . -.-. ..-. .-.. .- --. .. ... -- --- .-. ... .. -. --.  
 Ans :  
 INFOSECFLAGISMORSING
 
