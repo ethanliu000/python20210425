@@ -86,7 +86,7 @@ INFOSECFLAGISMORSING
 ## PPC_Ez : hello world
 
 ### 以下為Linux
-14:28 user@user-VirtualBox(10.0.2.15)[~] 
+14:28 user@user-VirtualBox(10.0.2.15)[~] \n
 [XD] % nc 120.114.62.214 2405
 ===== Welcome to CTF =====
 You successfully reach this problem
