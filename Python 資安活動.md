@@ -78,20 +78,20 @@ base32.b32decode(b"IJZGKYLLIFGEYQ2UIZ5TS6BUHA2VMUZXO5UWS5CCLJMFKVLIJVSX2===")
 ```
 
 ## 編碼101 :Morse code
-解底下的題目:
+解底下的題目:  
 .. -. ..-. --- ... . -.-. ..-. .-.. .- --. .. ... -- --- .-. ... .. -. --.
-Ans :
+Ans :  
 INFOSECFLAGISMORSING
 
 ## PPC_Ez : hello world
 
 ### 以下為Linux
-14:28 user@user-VirtualBox(10.0.2.15)[~] 
-[XD] % nc 120.114.62.214 2405
-===== Welcome to CTF =====
-You successfully reach this problem
-Congratulation!!!
-Wait for a few second, let me get you the flag
+14:28 user@user-VirtualBox(10.0.2.15)[~]   
+[XD] % nc 120.114.62.214 2405  
+===== Welcome to CTF =====  
+You successfully reach this problem  
+Congratulation!!!  
+Wait for a few second, let me get you the flag  
 
 Here you go : CTF{Hel10WorLD123}
 
