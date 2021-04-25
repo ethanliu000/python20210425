@@ -115,9 +115,9 @@ r.interactive()
 [XD] % python3 3rd.py  
 [+] Opening connection to 120.114.62.214 on port 2400: Done  
 99202  
-[*] Switching to interactive mode  
+[* ] Switching to interactive mode  
 answer : $ 99202  
 CTF{yoUaReInth33RdpL4c3}  
-[*] Got EOF while reading in interactive  
+[* ] Got EOF while reading in interactive  
 $  
 ## PPC_Ez : count
