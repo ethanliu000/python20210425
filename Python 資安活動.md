@@ -121,3 +121,30 @@ CTF{yoUaReInth33RdpL4c3}
 [* ] Got EOF while reading in interactive  
 $  
 ## PPC_Ez : count
+```python
+from pwn import *
+ip = "120.114.62.214" 
+port = 2403
+r = remote(ip, port)
+
+for i in range(1,101):
+	r.recvuntil("wave")
+	r.recvuntil("?")
+	r.sendline(str(i))
+
+r.interactive()
+```
+### 以下為Linux
+[XD] % python3 count.py  
+[+] Opening connection to 120.114.62.214 on port 2403: Done  
+[* ] Switching to interactive mode  
+
+CTF{gOOD4tMatHYOUarE}  
+[* ] Got EOF while reading in interactive  
+$  
+
+
+
+
+
+
